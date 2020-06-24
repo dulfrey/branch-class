@@ -3,4 +3,4 @@
 Colaboradores
 * Dulfrey H
 * Edilberto Pulido
-* Ingrid
+* Ingrid Castillo Torres
