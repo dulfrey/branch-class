@@ -2,5 +2,5 @@
 
 Colaboradores
 * Dulfrey H
-* Edilberto
+* Edilberto P.
 * Ingrid
